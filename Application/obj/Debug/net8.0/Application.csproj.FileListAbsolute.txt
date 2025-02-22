@@ -13,3 +13,4 @@ D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Application\obj\D
 D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Application\obj\Debug\net8.0\refint\Application.dll
 D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Application\obj\Debug\net8.0\Application.pdb
 D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Application\obj\Debug\net8.0\ref\Application.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Application\obj\Debug\net8.0\Application.sourcelink.json

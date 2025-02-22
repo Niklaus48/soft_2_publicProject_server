@@ -15,3 +15,4 @@ D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\D
 D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\ref\Persistence.dll
 D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
 D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

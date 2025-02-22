@@ -73,3 +73,4 @@ D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\soft_2_publicProj
 D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\soft_2_publicProject_server\bin\Debug\net8.0\Humanizer.dll
 D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\soft_2_publicProject_server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\soft_2_publicProject_server\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\soft_2_publicProject_server\obj\Debug\net8.0\API.sourcelink.json
