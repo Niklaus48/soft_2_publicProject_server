@@ -1,0 +1,11 @@
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\bin\Debug\net8.0\Domain.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\bin\Debug\net8.0\Domain.pdb
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\obj\Debug\net8.0\Domain.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\obj\Debug\net8.0\Domain.pdb
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Domain\obj\Debug\net8.0\ref\Domain.dll

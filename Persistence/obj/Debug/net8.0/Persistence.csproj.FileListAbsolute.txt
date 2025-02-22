@@ -1,0 +1,17 @@
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\bin\Debug\net8.0\Domain.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\C#\Projects\Asp.NetCore_Project\soft_2_publicProject_server\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
